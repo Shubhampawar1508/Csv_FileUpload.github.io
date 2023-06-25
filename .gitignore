@@ -1,0 +1,4 @@
+.prettierrc
+.envnpm install dotenv
+
+node_modules
