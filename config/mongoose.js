@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 
 
 
-//mongoose.connect('mongodb+srv://karan:karan@cluster0.gfuxd.mongodb.net/?retryWrites=true&w=majority');
+
 
 mongoose.connect('mongodb+srv://pawars897:Google005@cluster0.dhsdwtf.mongodb.net/habit-tracker?retryWrites=true&w=majority');
 
